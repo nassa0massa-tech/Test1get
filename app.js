@@ -71,7 +71,7 @@ const appData = {
             "desc": "MOD: Unlocked Work together to complete tasks on a spaceship, but beware of the impostor who aims to kill everyone.",
             "platforms": ["win", "mobile", "switch"],
             "downloads": "1.8M+",
-            "image": "https://ibb.co/fdy0rQ7D"
+            "image": "https://raw.githubusercontent.com/nassa0massa-tech/Image/main/among_us_crewmate_in_powerpoint_by_eduard96_dfb3zkq-414w-2x.jpg"
         }
     ],
     "testimonials": [
